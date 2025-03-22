@@ -1,5 +1,13 @@
 black
 flask
-Flask-SQLAlchemy
+flask-migrate
+flask-jwt-extended
+flask-smorest
+flask-sqlalchemy
+passlib
 psycopg2-binary
 pytest
+pytest-flask
+pytest-watch
+python-dotenv
+sqlalchemy

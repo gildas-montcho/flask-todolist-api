@@ -1,0 +1,27 @@
+# IDEs
+.idea/
+.vscode/
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Python artifacts
+*.pyc
+__pycache__/
+
+# Backup files
+*~
+
+# Database
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/

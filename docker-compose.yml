@@ -1,0 +1,10 @@
+name: flask-todo
+
+services:
+  web:
+    build: .
+    container_name: flask-todo-app
+    ports:
+      - 5000:5000
+    volumes:
+      - .:/src
